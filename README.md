@@ -7,3 +7,9 @@
 #### 💛 DownGit 可直接下載圖片資料夾：https://downgit.github.io/#/home
 
 #### 💛 Figma 線上標示文件教學：https://hackmd.io/MHtEdMRuT_G1A3yogcvLtw
+
+#### 💛CSS Reset meyerweb：https://meyerweb.com/eric/tools/css/reset/
+
+#### 💛BS5 Icon 引入：
+
+#### 💛Google Font 引入：https://fonts.google.com/selection/embed

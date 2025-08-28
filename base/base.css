@@ -1,0 +1,109 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+/* h1-h6 */
+.h1 {
+  font-size: 40px;
+  line-height: 1.2;
+}
+
+.h2 {
+  font-size: 32px;
+  line-height: 1.2;
+}
+
+.h3 {
+  font-size: 28px;
+  line-height: 1.2;
+}
+
+.h4 {
+  font-size: 24px;
+  line-height: 1.2;
+}
+
+.h5 {
+  font-size: 20px;
+  line-height: 1.2;
+}
+
+.h6 {
+  font-size: 16px;
+  line-height: 1.2;
+}
+
+/* primary 顏色 */
+.primary-100 {
+  color: #f5fee7;
+}
+
+.primary-200 {
+  color: #e8fec5;
+}
+
+.primary-300 {
+  color: #c0fa73;
+}
+
+.primary-400 {
+  color: #57a203;
+}
+
+.primary-500 {
+  color: #477a11;
+}
+
+/* neutral 顏色 */
+.neutral-0 {
+  color: #ffffff;
+}
+
+.neutral-100 {
+  color: #f8f9fa;
+}
+
+.neutral-200 {
+  color: #e9ecef;
+}
+
+.neutral-300 {
+  color: #dee2e6;
+}
+
+.neutral-400 {
+  color: #ced4da;
+}
+
+.neutral-500 {
+  color: #adb5bd;
+}
+
+.neutral-600 {
+  color: #6c757d;
+}
+
+.neutral-700 {
+  color: #495057;
+}
+.neutral-800 {
+  color: #343a40;
+}
+.neutral-900 {
+  color: #212529;
+}
+
+/* danger 顏色 */
+.danger-100 {
+  color: #fcf1f1;
+}
+
+.danger-200 {
+  color: #eba7a7;
+}
+
+.danger-300 {
+  color: #d74f4f;
+}
