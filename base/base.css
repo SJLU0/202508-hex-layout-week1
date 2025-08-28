@@ -2,6 +2,24 @@
 *::before,
 *::after {
   box-sizing: border-box;
+  font-family: "Noto Sans TC", sans-serif;
+}
+
+.container {
+  max-width: 1296px;
+  /*1920-312-312 */
+  width: 100%;
+  margin: 0 auto;
+}
+
+.width-856 {
+  max-width: 856px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.text-center {
+  text-align: center;
 }
 
 /* h1-h6 */
@@ -35,75 +53,59 @@
   line-height: 1.2;
 }
 
-/* primary 顏色 */
-.primary-100 {
-  color: #f5fee7;
+/* margin-right 設定 */
+.mr-4 {
+  margin-right: 10px;
 }
 
-.primary-200 {
-  color: #e8fec5;
+.mr-8 {
+  margin-right: 8px;
 }
 
-.primary-300 {
-  color: #c0fa73;
+/* margin-bottom 設定 */
+.mb-4 {
+  margin-bottom: 4px;
 }
 
-.primary-400 {
-  color: #57a203;
+.mb-8 {
+  margin-bottom: 8px;
 }
 
-.primary-500 {
-  color: #477a11;
+.mb-12 {
+  margin-bottom: 12px;
 }
 
-/* neutral 顏色 */
-.neutral-0 {
-  color: #ffffff;
+.mb-16 {
+  margin-bottom: 16px;
 }
 
-.neutral-100 {
-  color: #f8f9fa;
+.mb-24 {
+  margin-bottom: 24px;
 }
 
-.neutral-200 {
-  color: #e9ecef;
+.mb-48 {
+  margin-bottom: 64px;
 }
 
-.neutral-300 {
-  color: #dee2e6;
+.mb-64 {
+  margin-bottom: 64px;
 }
 
-.neutral-400 {
-  color: #ced4da;
+/* padding-bottom 設定 */
+.pd-48 {
+  padding-bottom: 48px;
 }
 
-.neutral-500 {
-  color: #adb5bd;
+/* padding 設定：上下都有 */
+.py-8 {
+  padding-top: 8px;
+  padding-bottom: 8px;
 }
-
-.neutral-600 {
-  color: #6c757d;
+.py-32 {
+  padding-top: 32px;
+  padding-bottom: 32px;
 }
-
-.neutral-700 {
-  color: #495057;
-}
-.neutral-800 {
-  color: #343a40;
-}
-.neutral-900 {
-  color: #212529;
-}
-
-/* danger 顏色 */
-.danger-100 {
-  color: #fcf1f1;
-}
-
-.danger-200 {
-  color: #eba7a7;
-}
-
-.danger-300 {
-  color: #d74f4f;
+.py-64 {
+  padding-top: 64px;
+  padding-bottom: 64px;
 }

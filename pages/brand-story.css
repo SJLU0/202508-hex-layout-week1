@@ -1,0 +1,33 @@
+.main-width {
+  max-width: 856px;
+}
+
+/* banner - 品牌故事 */
+.brand-banner {
+  background-image: url("/w1-imgs/hero.png");
+  background-size: cover; /* 背景圖填滿容器，保持比例 */
+  background-position: center; /* 圖片置中對齊 */
+  background-repeat: no-repeat; /* 不要重複平鋪 */
+}
+/* 品牌簡介 */
+
+.brand-info img {
+  max-width: 100%;
+}
+.ml-110 {
+  margin-left: -110px;
+  margin-right: -110px;
+}
+
+/* 品牌小故事 */
+.brand-story {
+}
+.brand-story a {
+  text-decoration: underline;
+  text-underline-offset: 4px; /* 調整你要的距離 */
+}
+/* footer 特殊字 */
+.text-14 {
+  font-size: 14px;
+  line-height: 1.5;
+}

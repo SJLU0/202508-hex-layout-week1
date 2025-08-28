@@ -10,6 +10,6 @@
 
 #### 💛CSS Reset meyerweb：https://meyerweb.com/eric/tools/css/reset/
 
-#### 💛BS5 Icon 引入：
+#### 💛BS5 Icon 引入：https://icons.getbootstrap.com/ >> CDN
 
 #### 💛Google Font 引入：https://fonts.google.com/selection/embed
