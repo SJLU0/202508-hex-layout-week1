@@ -13,3 +13,5 @@
 #### 💛BS5 Icon 引入：https://icons.getbootstrap.com/ >> CDN
 
 #### 💛Google Font 引入：https://fonts.google.com/selection/embed
+
+###### 0828 2 小時大致開發完成，待重看助教影片確認 font-weight、h1-h6 設置
